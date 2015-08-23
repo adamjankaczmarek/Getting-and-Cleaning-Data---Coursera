@@ -8,7 +8,7 @@ The original data set is: [**Human Activity Recognition Using Smartphones Data S
 Detailed data description is provided in `CodeBook.md` file.
 
 ## run_analysis.R
-The included data preprocessing script *run_analysis.R* performs following operations on the original data:
+The included data preprocessing script `run_analysis.R` performs following operations on the original data:
 
 1. Downloads the original data from the addres provided above.
 2. Loads data and merges test and train sets to create one data set.
